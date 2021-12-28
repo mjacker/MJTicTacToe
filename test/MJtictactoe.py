@@ -1,6 +1,0 @@
-print("TIC TAC TOE GAME")
-print("creando un vector de 9 elementos.")
-print("el usuario elige empezar con H o T")
-print("ahora estoy agregando un sistema pvp de tateti")
-print("tambien agrego la foto de shakira en como fondo")
-print("shakira.gif")
